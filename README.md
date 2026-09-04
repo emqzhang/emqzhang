@@ -18,9 +18,8 @@ Built and evaluated ML ranking models using XGBoost and LightGBM for cross-secti
 
 
 ## Pedestrian-Vehicle Conflict Detection with GRUs
-Built and evaluated ML model for detecting possible 
-
-**Tools:** Python, XGBoost, LightGBM, feature engineering
+()
+**Tools:** ()
 
 **Link here** ➡️ (tba)
 
