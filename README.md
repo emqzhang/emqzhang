@@ -1,16 +1,34 @@
 ## Hi there 👋
+I'm a Computer and Data Science student 🧑‍🎓 interested in applying data science solutions to fields such as urban planning, environmental science, and the renewable energy sector.
 
-<!--
-**anita-drink/anita-drink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work sits at the intersection of:
 
-Here are some ideas to get you started:
+- 🤖 Machine Learning
+- 🌎 Environmental & Geospatial Data
+- 📊 Data Science
+- 👁️ Spatial Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+## Machine Learning for CSI500 Stock Prediction
+Built and evaluated ML ranking models using XGBoost and LightGBM for cross-sectional stock selection.
+
+**Tools:** Python, XGBoost, LightGBM, feature engineering
+
+**Link here** ➡️ (tba)
+
+
+## Pedestrian-Vehicle Conflict Detection with GRUs
+Built and evaluated ML model for detecting possible 
+
+**Tools:** Python, XGBoost, LightGBM, feature engineering
+
+**Link here** ➡️ (tba)
+
+
+## LiDAR Vehicle Analysis
+Analyzed terrestrial LiDAR characteristics of vehicles for urban remote
+sensing and classification.
+
+**Tools:** Python, LiDAR, point clouds, spatial analysis
+
+**Link here** ➡️ (tba)
